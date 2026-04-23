@@ -1,0 +1,1 @@
+export { default as Pcard1 } from './common/Pcard1.tsx'
