@@ -1,5 +1,1 @@
-:root {
-  background: #f1f1f1;
-  color: black;
-  margin: 0;
-}
+@import 'tailwindcss'
