@@ -1,8 +1,9 @@
 import "./App.css";
+import { LoginFrom1 } from "./handler";
 const App = () => {
   return (
     <>
-      <h1>Now we Start from tommorow</h1>
+      <LoginFrom1></LoginFrom1>
     </>
   );
 };
