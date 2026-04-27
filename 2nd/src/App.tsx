@@ -3,6 +3,7 @@ import { LoginFrom1 } from "./handler";
 const App = () => {
   return (
     <>
+      {/* {console.log(inputRef[0].current)} */}
       <LoginFrom1></LoginFrom1>
     </>
   );
